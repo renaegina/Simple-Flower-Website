@@ -1,6 +1,6 @@
 # Simple Flower Website
 
-<p align="center"><img src="Output.png" alt="Output"></a></p>
+<p align="center"><img src="Output.png" width="800px" alt="Output"></a></p>
 
 ## Features
 
